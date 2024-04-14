@@ -1,0 +1,7 @@
+{
+  "name": "prueba1gaby-2024",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
